@@ -1,11 +1,11 @@
 {
-  "latestVersionCode": 19,
-  "latestVersionName": "1.0.17",
+  "latestVersionCode": 20,
+  "latestVersionName": "1.0.18",
   "minimumVersionCode": 17,
-  "apkUrl": "https://github.com/Newcomer-11/OPIC-Now-Releases/releases/download/v1.0.17/app-release.apk",
+  "apkUrl": "https://github.com/Newcomer-11/OPIC-Now-Releases/releases/download/v1.0.18/app-release.apk",
   "releaseDate": "2026-09-14",
   "releaseNotes": [
-    "Fixed automatic update detection.",
-    "Added Firebase Hosting manifest and fallback update sources."
+    "Verification release for automatic update notifications.",
+    "Version 1.0.17 will receive this release automatically on the home screen."
   ]
 }
