@@ -1,11 +1,11 @@
 {
-  "latestVersionCode": 18,
-  "latestVersionName": "1.0.16",
+  "latestVersionCode": 19,
+  "latestVersionName": "1.0.17",
   "minimumVersionCode": 17,
-  "apkUrl": "https://github.com/Newcomer-11/OPIC-Now-Releases/releases/download/v1.0.16/app-release.apk",
+  "apkUrl": "https://github.com/Newcomer-11/OPIC-Now-Releases/releases/download/v1.0.17/app-release.apk",
   "releaseDate": "2026-09-14",
   "releaseNotes": [
-    "Sửa lỗi hiển thị Đề thi thực tế.",
-    "Bản phát hành dùng release key mới và hỗ trợ cập nhật tự động."
+    "Fixed automatic update detection.",
+    "Added Firebase Hosting manifest and fallback update sources."
   ]
 }
