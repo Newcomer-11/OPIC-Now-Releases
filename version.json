@@ -1,12 +1,11 @@
 {
-    "latestVersionCode":  8,
-    "latestVersionName":  "1.0.6",
-    "minimumVersionCode":  2,
-    "apkUrl":  "https://github.com/Newcomer-11/OPIC-Now-Releases/releases/download/v1.0.6/OPIC-Now-v1.0.6-arm64-v8a.apk",
-    "releaseDate":  "2026-09-11",
+    "latestVersionCode": 10,
+    "latestVersionName": "1.0.8",
+    "minimumVersionCode": 9,
+    "apkUrl": "https://github.com/Newcomer-11/OPIC-Now-Releases/releases/download/v1.0.8/OPIC-Now-v1.0.8-arm64-v8a.apk",
+    "releaseDate": "2026-09-14",
     "releaseNotes":  [
-                         "Sửa luồng tải APK trực tiếp trong ứng dụng.",
-                         "Hiển thị tiến trình tải đến 100% rồi chuyển sang nút Cài đặt ngay.",
-                         "Mở Android Package Installer để người dùng xác nhận cập nhật."
+                         "Sửa quyền mở Android Package Installer sau khi tải APK.",
+                         "Cải thiện thông báo khi thiết bị chặn cài đặt từ nguồn này."
                      ]
 }
