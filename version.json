@@ -1,11 +1,11 @@
 {
-  "latestVersionCode": 21,
-  "latestVersionName": "1.0.19",
+  "latestVersionCode": 22,
+  "latestVersionName": "1.0.20",
   "minimumVersionCode": 17,
-  "apkUrl": "https://github.com/Newcomer-11/OPIC-Now-Releases/releases/download/v1.0.19/app-release.apk",
+  "apkUrl": "https://github.com/Newcomer-11/OPIC-Now-Releases/releases/download/v1.0.20/app-release.apk",
   "releaseDate": "2026-09-15",
   "releaseNotes": [
-    "Restored full-screen update download progress.",
-    "The Android Package Installer opens automatically after download reaches 100%."
+    "Update flow test release: full-screen download progress.",
+    "Android Package Installer opens automatically after download reaches 100%."
   ]
 }
