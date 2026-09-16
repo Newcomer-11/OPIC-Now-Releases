@@ -1,11 +1,11 @@
 {
-  "latestVersionCode": 22,
-  "latestVersionName": "1.0.20",
+  "latestVersionCode": 23,
+  "latestVersionName": "1.0.21",
   "minimumVersionCode": 17,
-  "apkUrl": "https://github.com/Newcomer-11/OPIC-Now-Releases/releases/download/v1.0.20/app-release.apk",
-  "releaseDate": "2026-09-15",
+  "apkUrl": "https://github.com/Newcomer-11/OPIC-Now-Releases/releases/download/v1.0.21/app-release.apk",
+  "releaseDate": "2026-09-16",
   "releaseNotes": [
-    "Update flow test release: full-screen download progress.",
-    "Android Package Installer opens automatically after download reaches 100%."
+    "Maintenance mode now blocks candidate access across web and mobile.",
+    "Admin accounts can still sign in to handle incidents."
   ]
 }
