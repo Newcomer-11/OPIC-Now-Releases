@@ -1,11 +1,12 @@
 {
-    "latestVersionCode":  24,
-    "latestVersionName":  "1.0.22",
-    "minimumVersionCode":  17,
-    "apkUrl":  "https://github.com/Newcomer-11/OPIC-Now-Releases/releases/download/v1.0.22/app-release.apk",
-    "releaseDate":  "2026-09-18",
-    "releaseNotes":  [
-                         "Popup thông báo mobile hỗ trợ link có thể bấm.",
-                         "Mục Liên hệ cập nhật thành Cộng đồng OPIC Now với link nhóm Zalo."
-                     ]
+  "latestVersionCode": 25,
+  "latestVersionName": "1.0.23",
+  "minimumVersionCode": 17,
+  "apkUrl": "https://github.com/Newcomer-11/OPIC-Now-Releases/releases/download/v1.0.23/app-release.apk",
+  "releaseDate": "2026-09-18",
+  "releaseNotes": [
+    "Tối ưu Firestore reads/writes trên scoring và session triggers.",
+    "Tối ưu listener lịch sử và timer trên mobile.",
+    "APK arm64-v8a nhẹ hơn, loại bỏ các ABI không cần thiết."
+  ]
 }
